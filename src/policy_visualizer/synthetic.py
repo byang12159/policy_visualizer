@@ -1,3 +1,6 @@
+# Copyright 2026 Ben Yang
+# SPDX-License-Identifier: Apache-2.0
+
 """Synthetic episodes for development and for exercising both space kinds.
 
 Chunk error is shaped the way real chunking policies fail: a step offset at the chunk head

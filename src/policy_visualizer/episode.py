@@ -1,3 +1,6 @@
+# Copyright 2026 Ben Yang
+# SPDX-License-Identifier: Apache-2.0
+
 """Normalizing whatever you have into something plottable.
 
 Action chunks arrive in inconsistent shapes: a dense ``(K, H, D)`` tensor from a batched

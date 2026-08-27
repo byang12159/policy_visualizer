@@ -1,3 +1,6 @@
+# Copyright 2026 Ben Yang
+# SPDX-License-Identifier: Apache-2.0
+
 """The Bokeh overview + brush + live-detail view.
 
 Layout is an overview of the whole episode above a brush, and an enlarged detail panel

@@ -1,3 +1,6 @@
+# Copyright 2026 Ben Yang
+# SPDX-License-Identifier: Apache-2.0
+
 """Action-space description: what each column of an action vector actually means.
 
 An action vector is just ``(D,)`` floats. Whether column 3 is a wrist angle in radians or

@@ -1,3 +1,6 @@
+# Copyright 2026 Ben Yang
+# SPDX-License-Identifier: Apache-2.0
+
 """Rotation representations and the geodesic metric between them.
 
 Everything here is vectorized over leading axes: a function documented as taking

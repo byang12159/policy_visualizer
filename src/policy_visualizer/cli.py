@@ -1,3 +1,6 @@
+# Copyright 2026 Ben Yang
+# SPDX-License-Identifier: Apache-2.0
+
 """Command line entry point: ``policy-viz``."""
 
 from __future__ import annotations

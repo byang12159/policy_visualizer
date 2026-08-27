@@ -8,10 +8,24 @@ version = "0.1.0"
 description = "Interactive debugging views for action-chunking robot policies"
 readme = "README.md"
 requires-python = ">=3.10"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+authors = [{ name = "Ben Yang", email = "byang11259@gmail.com" }]
+keywords = ["robotics", "action-chunking", "visualization", "imitation-learning"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Visualization",
+]
 dependencies = [
     "numpy>=1.24",
     "bokeh>=3.4",
 ]
+
+[project.urls]
+Homepage = "https://github.com/byang12159/policy_visualizer"
+Repository = "https://github.com/byang12159/policy_visualizer"
 
 [project.optional-dependencies]
 dev = [

@@ -93,3 +93,17 @@ The brush-to-detail link is object identity, not a callback: `RangeTool` mutates
 .venv/bin/pytest        # 60 tests
 .venv/bin/ruff check .
 ```
+
+## License
+
+Licensed under the Apache License, Version 2.0.
+See [LICENSE](LICENSE) for the full text, or <http://www.apache.org/licenses/LICENSE-2.0>.
+
+Source files carry an SPDX identifier rather than the full boilerplate header:
+
+```python
+# Copyright 2026 Ben Yang
+# SPDX-License-Identifier: Apache-2.0
+```
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.

@@ -1,3 +1,6 @@
+# Copyright 2026 Ben Yang
+# SPDX-License-Identifier: Apache-2.0
+
 """Disagreement metrics between overlapping action chunks.
 
 The question this module answers: at frame ``t``, the policy has emitted several chunks that

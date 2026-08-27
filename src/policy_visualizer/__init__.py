@@ -1,3 +1,6 @@
+# Copyright 2026 Ben Yang
+# SPDX-License-Identifier: Apache-2.0
+
 """Interactive debugging views for action-chunking robot policies.
 
 Overview + brush + live detail, emitted as one self-contained HTML file.
